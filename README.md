@@ -158,3 +158,19 @@ No standing access to any other repo. No org-wide scopes. Token expires every 90
 **⭐ If this structure is useful to you, feel free to fork it for your own LeetCode journey.**
 
 </div>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Graph Theory
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MohitXCode/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MohitXCode/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/MohitXCode/leetcode-solutions/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+<!---LeetCode Topics End-->
